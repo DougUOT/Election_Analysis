@@ -12,7 +12,10 @@
 ### 2) Get a complete list of candidates who received votes.
 ### 3) Calculate the total number of votes each candidate received.
 ### 4) Calculate the percentage of votes each candidate won.
-### 5) Determine the winner of the election based on popular vote.
+### 5) Get the voter turnout for each county
+### 6) Calculate the percentage of votes from each county out of the total count
+### 7) Calculate the county with the highest turnout
+### 8) Determine the winner of the election based on popular vote.
 
 ## Resources
 
@@ -34,7 +37,7 @@
 #### *Diana DeGette received 272,892 votes, which represents 73.8% or nearly three quarters of the total votes.
 #### *Raymon Anthony Doane received 11606 votes, representing 3.1% of all votes.
 
-![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Elections%20Results%20Additional%20Visualization.png)
+![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Elections%20Results%20Additional%20Visualization_.png)
 
 ## Diana DeGette was the winner of the election, she received the majority of votes with 73.8% representing a total of 272892 votes. 
 
