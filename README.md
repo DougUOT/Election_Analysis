@@ -28,9 +28,13 @@
 
 ### The candidates final results were:
 
+![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Election%20Results%20from%20Election_Analysis_txt%20file.png)
+
 #### *Charles Casper Stockham received 85213 which represents 23% of all votes.
 #### *Diana DeGette received 272,892 votes, which represents 73.8% or nearly three quarters of the total votes.
 #### *Raymon Anthony Doane received 11606 votes, representing 3.1% of all votes.
+
+![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Elections%20Results%20Additional%20Visualization.png)
 
 ## Diana DeGette was the winner of the election, she received the majority of votes with 73.8% representing a total of 272892 votes. 
 
