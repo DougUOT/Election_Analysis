@@ -55,8 +55,18 @@
 
 ### As this is a process of auditing the result of an election, one of the most vital information to be considered and easily identified would be the results of votes per candidate and votes per count. If this code is used for other elections, with more candidates or counties, the final result would be essential to appear in descending order from the largest to the smallest. In this way, it streamlines the electoral committee for a quick decision on the winner. The same can be implemented for Senate or Congress positions in any election. Furthermore, for cases where there is a certain number of candidates to be elected, for example, if the Senate elects 15 candidates, it will be easy to observe the winners considering the fifteen first placed. 
 
-### Therefore, two modifications were made to this code, the first placing the county votes in descending order and the second placing the final result of the most voted candidates in descending order. Python sorted() function was used for the two modifications in the original code.
+### Therefore, [PyPoll with two modifications](https://github.com/DougUOT/Election_Analysis/blob/master/PyPoll_Challenge_with%20two%20modifications.py)were made to this code, the first placing the county votes in descending order and the second placing the final result of the most voted candidates in descending order. Python sorted() function was used for the two modifications in the original code.
 
+### The first modification was applied to lines 109, 110 and 111, adding the Sorted function in Python to county votes. The initial results were kept, and additionally, we had the results sorted in descending order for the county votes.
 
+![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Capture%20first%20modification%20apllying%20sorted%20function.PNG)
+![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Capture%20Result%20first%20modification%20Sorted%20function.PNG) 
 
+### The second modification was applied to lines 146, 147 and 148, adding the Sorted function in Python to candidate votes. The initial results were kept, and additionally, we had the results sorted in descending order for the candidate votes. 
 
+![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Capture%20second%20modification%20apllying%20sorted%20function.PNG)
+![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Capture%20Result%20second%20modification%20Sorted%20function.PNG)
+
+## Limitations of this Pyhton Code
+
+### All Python code available in this project (all files with *.py extension) were made considering a variable for load and save, with files available in a local path (lines 9 and 11). There may be some limitations or errors when running Python code. To run those Python codes in this project, it may be necessary to change the path in the lines mentioned above; the file used as base or load for this code is available on Github in the Resources file folder. Furthermore, the results as saved were recorded in the file.
