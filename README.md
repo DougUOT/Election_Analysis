@@ -25,7 +25,7 @@
 
 ### * Data Source: [election_results.csv](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/election_results.csv)
 ### * Overview of Election Audit Result: [election_analysis.txt](https://github.com/DougUOT/Election_Analysis/blob/master/Analysis/election_analysis.txt)  
-### * Software: Pyton 3.8.8 64-bit, Visual Studio Code, 1.62.2
+### * Software: Python 3.8.8 64-bit, Visual Studio Code, 1.62.2
 
 ## Election-Audit Summary
 
@@ -67,6 +67,6 @@
 ![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Capture%20second%20modification%20apllying%20sorted%20function.PNG)
 ![](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/Capture%20Result%20second%20modification%20Sorted%20function.PNG)
 
-## Limitations of this Pyhton Code
+## Limitations of this Python Code
 
 ### All Python code available in this project (all files with *.py extension) were made considering a variable for load and save, with files available in a local path (lines 9 and 11). There may be some limitations or errors when running Python code. To run those Python codes in this project, it may be necessary to change the path in the lines mentioned above; the file used as base or load for this code is available on Github in the Resources folder, file [Election_Results.csv](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/election_results.csv). Furthermore, the results as saved were recorded in Analysis Folder with the file [election_analysis.txt](https://github.com/DougUOT/Election_Analysis/blob/master/Analysis/election_analysis.txt).
