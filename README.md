@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Election_Analysis
-=======
+
 # Election_Analysis
 
 ### Helping a Colorado Board of Election representative Tom in a political race review of the arranged outcomes for the U.S. Legislative region in Colorado.
@@ -73,4 +71,3 @@
 ## Limitations of this Python Code
 
 ### All Python code available in this project (all files with *.py extension) were made considering a variable for load and save, with files available in a local path (lines 9 and 11). There may be some limitations or errors when running Python code. To run those Python codes in this project, it may be necessary to change the path in the lines mentioned above; the file used as base or load for this code is available on Github in the Resources folder, file [Election_Results.csv](https://github.com/DougUOT/Election_Analysis/blob/master/Resources/election_results.csv). Furthermore, the results as saved were recorded in Analysis Folder with the file [election_analysis.txt](https://github.com/DougUOT/Election_Analysis/blob/master/Analysis/election_analysis.txt).
->>>>>>> 7156afcf36279c7f63fd9ea6cdc3a3c5793c9be2
